@@ -9,6 +9,7 @@ Feel free to use all code as example code. This repository probably also contain
 - [ ] Make a neural network that can classify images of hand-written digits as digits.
 - [x] Look at how we can input audio into a neural network. 
 - [ ] Actually work with an audio dataset.
+- [ ] Classifier voor (m/v) op basis van malspectogrammen met vctk dataset.
 
 ### Findings
 
